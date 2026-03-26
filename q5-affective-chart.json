@@ -1,0 +1,7 @@
+{
+  "prompt": "A photorealistic aerial view of thousands of tiny handmade paper boats densely packed together on dark water. The boats are arranged so that one side of the frame is overwhelmingly crowded with bright white boats, gradually thinning out to just a sparse scattering of boats on the other side. No text, no labels, no charts. Cinematic lighting, shot from directly above, ultra detailed, 4k.",
+  "model": "DALL-E 3 via Microsoft Copilot",
+  "dataset_name": "UN Inter-agency Group for Child Mortality Estimation (IGME)",
+  "dataset_url": "https://childmortality.org/",
+  "insight": "Global under-5 child mortality has fallen by over 60% since 1990, from 93 deaths per 1000 live births to 37, representing millions of lives saved."
+}
