@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic image of an ornate, extremely detailed key with hundreds of tiny intricate engravings and decorations, perfectly fitting one very specific ornate lock on a weathered door. Beside it, dozens of plain simple locks that the key cannot open at all. Natural light, shallow depth of field, shot like a magazine photo.",
+  "model": "DALL-E 3 via Microsoft Copilot",
+  "concept": "overfitting",
+  "metaphor": "An ornate key perfectly fits one specific lock but fails on all plain locks nearby — a model memorizing training data so precisely it cannot generalize to new examples."
+}
